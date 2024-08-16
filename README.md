@@ -138,7 +138,3 @@ craftyBay/
         │           └── title_header_and_see_all_button.dart
         └── main.dart
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
